@@ -268,12 +268,12 @@ const Footer = () => {
             © {new Date().getFullYear()} OptixDigitalAI. All rights reserved.
           </p>
           <a
-            href="https://www.bazaardigital.in/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-yellow-400 transition"
           >
-            Designed & Developed by Bazaar Digital
+           
           </a>
 
           <div className="flex space-x-4">
